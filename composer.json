@@ -2,7 +2,7 @@
     "name": "creativeorange/protectedlinks",
     "description": "Secure & restricted files download",
     "type": "craft-plugin",
-    "version": "0.0.4",
+    "version": "1.0.0",
     "keywords": [
         "craft",
         "craftcms",
@@ -13,11 +13,15 @@
         "restricted content"
     ],
     "support": {
-        "docs": "https://github.com/intoeetive/protectedlinks/blob/master/README.md",
-        "issues": "https://github.com/intoeetive/protectedlinks/issues"
+        "docs": "https://github.com/creativeorange/protectedlinks/blob/master/README.md",
+        "issues": "https://github.com/creativeorange/protectedlinks/issues"
     },
     "license": "MIT",
     "authors": [
+        {
+            "name": "Jaco Tijssen",
+            "homepage": "https://www.creativeorange.nl"
+        },
         {
             "name": "Yurii Salimovskyi",
             "homepage": "http://www.intoeetive.com/"
